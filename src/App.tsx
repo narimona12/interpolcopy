@@ -155,13 +155,13 @@ export default function App() {
               </p>
             )}
             {modalType === 'id' && (
-              <div className="w-[85%] sm:w-[90%] aspect-[3/4] rounded-lg overflow-hidden shadow-2xl border-2 border-white/20 mx-auto">
-                <img src="/images/verified_doctors/client_1/IMG_5061.jpg" alt="ID Card" className="w-full h-full object-cover object-center scale-[1.05]" />
+              <div className="w-[95%] sm:w-[90%] aspect-[1.58/1] rounded-lg overflow-hidden shadow-2xl border-2 border-white/20 mx-auto bg-white flex items-center justify-center">
+                <img src="/images/verified_doctors/client_1/id_card_new.png" alt="ID Card" className="w-full h-full object-contain object-center scale-[1.02]" />
               </div>
             )}
             {modalType === 'license' && (
-              <div className="w-[85%] sm:w-[90%] aspect-[3/4] rounded-lg overflow-hidden shadow-2xl border-2 border-white/20 mx-auto">
-                <img src="/images/verified_doctors/client_1/IMG_5063.jpg" alt="License" className="w-full h-full object-cover object-center scale-[1.05]" />
+              <div className="w-[95%] sm:w-[90%] aspect-[1.58/1] rounded-lg overflow-hidden shadow-2xl border-2 border-white/20 mx-auto bg-white flex items-center justify-center">
+                <img src="/images/verified_doctors/client_1/license_new.jpg" alt="License" className="w-full h-full object-contain object-center scale-[1.02]" />
               </div>
             )}
             {modalType && <p onClick={() => setModalType(null)} className="text-white/60 text-[14px] mt-6 cursor-pointer hover:text-white transition-all uppercase tracking-widest border-b border-transparent hover:border-white">Yopish / Close</p>}
