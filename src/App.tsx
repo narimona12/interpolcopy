@@ -73,8 +73,10 @@ export default function App() {
             </div>
           </div>
 
-          <div className="flex max-w-[425px] mx-auto items-center justify-center w-full flex-col text-center mt-6">
-            <p className="text-[32px] text-[white] w-full uppercase font-medium text-center leading-tight">ASADULLAEV ASADBEK DAVRONOVICH</p>
+          <div className="flex max-w-[425px] mx-auto items-start justify-start w-full flex-col text-left mt-6">
+            <p className="text-[32px] text-[white] w-full uppercase font-medium text-left leading-tight">ASADULLAEV</p>
+            <p className="text-[32px] text-[white] w-full uppercase font-medium text-left leading-tight">ASADBEK</p>
+            <p className="text-[32px] text-[white] w-full uppercase font-medium text-left leading-tight">DAVRONOVICH</p>
           </div>
 
           <p className="w-full max-w-[425px] mx-auto text-[24px] text-white my-4">
@@ -97,7 +99,7 @@ export default function App() {
 
           <div className="flex max-w-[425px] mx-auto items-start justify-start w-full flex-col mb-[20px]">
             <p className="text-[white] text-[20px]">{t.blood}</p>
-            <p className="text-[white] text-[20px] font-bold">3+</p>
+            <p className="text-[white] text-[20px] font-bold">III Guruh (+)</p>
           </div>
 
           <div className="flex max-w-[425px] mx-auto items-start gap-2 justify-start w-full relative mb-[20px]">
