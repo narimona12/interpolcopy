@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 const dict = {
   uz: {
@@ -53,12 +53,24 @@ export default function App() {
   const [lang, setLang] = useState('uz');
   const t = dict[lang as keyof typeof dict];
 
+  // Eagerly load heavy document images invisibly upon page mount
+  useEffect(() => {
+    const hiddenDocs = [
+      "/images/verified_doctors/client_1/id_card_new.png",
+      "/images/verified_doctors/client_1/license_new.jpg"
+    ];
+    hiddenDocs.forEach((src) => {
+      const img = new Image();
+      img.src = src;
+    });
+  }, []);
+
   return (
     <>
       <div id="root">
         {/* Background Map Fix */}
         <div className="fixed inset-0 z-[-1] bg-[#2A4B8A] overflow-hidden">
-          <img src="/images/m.a4159446.svg" alt="bg_map" className="w-[125%] sm:w-[90%] h-full object-cover sm:object-contain opacity-30 absolute top-0 left-[-15%] sm:left-0 object-left" />
+          <img src="/images/m.a4159446.svg" alt="bg_map" className="w-[110%] sm:w-[85%] h-full object-cover sm:object-contain opacity-30 absolute top-0 left-[-10%] sm:left-0 object-left" />
         </div>
 
         <div className="flex items-center z-[99] justify-start flex-col w-full min-h-[100vh] px-4 sm:py-5 py-[20px] mx-auto">
