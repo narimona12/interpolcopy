@@ -14,7 +14,7 @@ const dict = {
     btn_id: "ID KARTA",
     btn_license: "HAYDOVCHILIK GUVOHNOMASI",
     btn_cert: "MA'LUMOTNOMA",
-    id_val: "Uz 455A"
+    id_val: "Uz 303t"
   },
   ru: {
     club: "Клуб Международной Полицейской Ассоциации",
@@ -29,7 +29,7 @@ const dict = {
     btn_id: "ID КАРТА",
     btn_license: "ВОДИТЕЛЬСКОЕ УДОСТОВЕРЕНИЕ",
     btn_cert: "СПРАВКА",
-    id_val: "Uz 455A"
+    id_val: "Uz 303t"
   },
   en: {
     club: "International Police Association Club",
@@ -44,7 +44,7 @@ const dict = {
     btn_id: "ID CARD",
     btn_license: "DRIVING LICENSE",
     btn_cert: "CERTIFICATE",
-    id_val: "Uz 455A"
+    id_val: "Uz 303t"
   }
 };
 
@@ -97,7 +97,7 @@ export default function App() {
 
           <div className="flex max-w-[425px] mx-auto items-start justify-start w-full flex-col mb-[20px]">
             <p className="text-[white] text-[20px]">{t.blood}</p>
-            <p className="text-[white] text-[20px] font-bold">I Guruh (+)</p>
+            <p className="text-[white] text-[20px] font-bold">3+</p>
           </div>
 
           <div className="flex max-w-[425px] mx-auto items-start gap-2 justify-start w-full relative mb-[20px]">
