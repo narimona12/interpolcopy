@@ -57,8 +57,8 @@ export default function App() {
     <>
       <div id="root">
         {/* Background Map Fix */}
-        <div className="fixed z-[-1] top-0 left-0 w-full h-[100vh] overflow-hidden bg-[#2A4B8A]">
-          <img src="/images/m.a4159446.svg" alt="bg_map" className="w-[150%] sm:w-full h-full object-cover sm:object-contain opacity-40 absolute top-0 left-[-30%] sm:left-0 object-left" />
+        <div className="fixed inset-0 z-[-1] bg-[#2A4B8A] overflow-hidden">
+          <img src="/images/m.a4159446.svg" alt="bg_map" className="w-[125%] sm:w-[90%] h-full object-cover sm:object-contain opacity-30 absolute top-0 left-[-15%] sm:left-0 object-left" />
         </div>
 
         <div className="flex items-center z-[99] justify-start flex-col w-full min-h-[100vh] px-4 sm:py-5 py-[20px] mx-auto">
