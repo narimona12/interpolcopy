@@ -1,0 +1,1457 @@
+{
+  "html_tree": {
+    "type": "element",
+    "tag": "BODY",
+    "styles": {
+      "tagName": "BODY",
+      "id": "",
+      "className": "",
+      "bg": "rgb(42, 75, 138)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 20px",
+      "margin": "0px",
+      "fontFamily": "Inter, sans-serif",
+      "fontSize": "16px",
+      "width": "375px",
+      "height": "1207.48px",
+      "border": "0px solid rgb(238, 238, 238)",
+      "borderRadius": "0px"
+    },
+    "children": [
+      {
+        "type": "element",
+        "tag": "DIV",
+        "styles": {
+          "tagName": "DIV",
+          "id": "root",
+          "className": "",
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "width": "335px",
+          "height": "1207.48px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "borderRadius": "0px"
+        },
+        "children": [
+          {
+            "type": "element",
+            "tag": "DIV",
+            "styles": {
+              "tagName": "DIV",
+              "id": "",
+              "className": "fixed z-[-1] top-0 left-0 w-full h-[100vh]",
+              "bg": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif",
+              "fontSize": "16px",
+              "width": "375px",
+              "height": "812px",
+              "border": "0px solid rgb(238, 238, 238)",
+              "borderRadius": "0px"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "IMG",
+                "styles": {
+                  "tagName": "IMG",
+                  "id": "",
+                  "className": "w-[70%]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "262.5px",
+                  "height": "194.109px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "DIV",
+            "styles": {
+              "tagName": "DIV",
+              "id": "",
+              "className": "flex items-center z-[99] justify-start flex-col w-full minh-[100vh] py-[20px]",
+              "bg": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "20px 0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif",
+              "fontSize": "16px",
+              "width": "335px",
+              "height": "1207.48px",
+              "border": "0px solid rgb(238, 238, 238)",
+              "borderRadius": "0px"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex items-start max-w-[425px] justify-center w-full gap-[30px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "228.484px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "IMG",
+                    "styles": {
+                      "tagName": "IMG",
+                      "id": "",
+                      "className": "w-[170px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(0, 0, 0)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "16px",
+                      "width": "170px",
+                      "height": "228.484px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "element",
+                    "tag": "DIV",
+                    "styles": {
+                      "tagName": "DIV",
+                      "id": "",
+                      "className": "flex items-center justify-center flex-col w-[170px] font-sans",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(0, 0, 0)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Roboto, sans-serif",
+                      "fontSize": "16px",
+                      "width": "135px",
+                      "height": "187.953px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "IMG",
+                        "styles": {
+                          "tagName": "IMG",
+                          "id": "",
+                          "className": "w-[80%]",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(0, 0, 0)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "16px",
+                          "width": "108px",
+                          "height": "115.953px",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": []
+                      },
+                      {
+                        "type": "element",
+                        "tag": "P",
+                        "styles": {
+                          "tagName": "P",
+                          "id": "",
+                          "className": "text-center text-[white]",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "16px",
+                          "width": "135px",
+                          "height": "72px",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Xalqaro Politsiya Assotsiatsiyasi klubi"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex max-w-[425px] items-start justify-start w-full flex-col",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "144px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[32px] text-[white] w-full uppercase font-medium",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "32px",
+                      "width": "335px",
+                      "height": "48px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Xashimov"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[32px] text-[white] w-full uppercase font-medium",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "32px",
+                      "width": "335px",
+                      "height": "96px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Kozimjon Mirzaaxatjonovich"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "P",
+                "styles": {
+                  "tagName": "P",
+                  "id": "",
+                  "className": "w-full max-w-[425px] text-[24px] text-white mb-[10px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(255, 255, 255)",
+                  "padding": "0px",
+                  "margin": "0px 0px 10px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "24px",
+                  "width": "335px",
+                  "height": "36px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "ID CARD:"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "SPAN",
+                    "styles": {
+                      "tagName": "SPAN",
+                      "id": "",
+                      "className": "text-[#00ff4c]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(0, 255, 76)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "24px",
+                      "width": "auto",
+                      "height": "auto",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Uz 233t"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "w-full max-w-[425px] text-[24px] text-white flex items-center justify-start gap-3 mb-[10px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(255, 255, 255)",
+                  "padding": "0px",
+                  "margin": "0px 0px 10px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "24px",
+                  "width": "335px",
+                  "height": "60px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "IPA Uzbekistan"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "IMG",
+                    "styles": {
+                      "tagName": "IMG",
+                      "id": "",
+                      "className": "w-[60px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "24px",
+                      "width": "60px",
+                      "height": "60px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex max-w-[425px] items-start justify-start w-full flex-col mb-[20px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px 0px 20px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "60px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[white] text-[20px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "140.969px",
+                      "height": "30px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Tug'ulgan sana:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[white] text-[20px] font-bold",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "100.109px",
+                      "height": "30px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "21/10/1988"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex max-w-[425px] items-start justify-start w-full flex-col mb-[20px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px 0px 20px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "60px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[white] text-[20px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "192.812px",
+                      "height": "30px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "A'zolikka kirgan sana:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[white] text-[20px] font-bold",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "100.109px",
+                      "height": "30px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "01/01/2024"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex max-w-[425px] items-start justify-start w-full flex-col mb-[20px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px 0px 20px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "61px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[white] text-[20px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "104.516px",
+                      "height": "30px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Qon guruhi:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[white] text-[20px] font-bold",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "104.172px",
+                      "height": "31px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "font-[Merriweather] ",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Merriweather",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "I"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": []
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "G"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "u"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "r"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "u"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "h"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": []
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "("
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "+"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "SPAN",
+                        "styles": {
+                          "tagName": "SPAN",
+                          "id": "",
+                          "className": "false",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "auto",
+                          "height": "auto",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": ")"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex max-w-[425px] items-start gap-2 justify-start w-full relative mb-[20px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px 0px 20px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "80px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "DIV",
+                    "styles": {
+                      "tagName": "DIV",
+                      "id": "",
+                      "className": "flex items-center justify-start w-[350px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(0, 0, 0)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "16px",
+                      "width": "335px",
+                      "height": "80px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "P",
+                        "styles": {
+                          "tagName": "P",
+                          "id": "",
+                          "className": "text-[white] text-[20px]",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(255, 255, 255)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "20px",
+                          "width": "268.219px",
+                          "height": "60px",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "Qaysi davlat organida xizmat qilgan:"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "DIV",
+                        "styles": {
+                          "tagName": "DIV",
+                          "id": "",
+                          "className": "flex items-center justify-center w-[80x] h-[80px] overflow-hidden",
+                          "bg": "rgba(0, 0, 0, 0)",
+                          "color": "rgb(0, 0, 0)",
+                          "padding": "0px",
+                          "margin": "0px",
+                          "fontFamily": "Inter, sans-serif",
+                          "fontSize": "16px",
+                          "width": "66.7812px",
+                          "height": "80px",
+                          "border": "0px solid rgb(238, 238, 238)",
+                          "borderRadius": "0px"
+                        },
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "IMG",
+                            "styles": {
+                              "tagName": "IMG",
+                              "id": "",
+                              "className": "w-[80px]",
+                              "bg": "rgba(0, 0, 0, 0)",
+                              "color": "rgb(0, 0, 0)",
+                              "padding": "0px",
+                              "margin": "0px",
+                              "fontFamily": "Inter, sans-serif",
+                              "fontSize": "16px",
+                              "width": "66.7812px",
+                              "height": "66.7812px",
+                              "border": "0px solid rgb(238, 238, 238)",
+                              "borderRadius": "0px"
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex max-w-[425px] items-start mb-[20px] justify-start w-full flex-col",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px 0px 20px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "84px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[white] text-[20px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "244.578px",
+                      "height": "30px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Xizmat guvohnomasi holati:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "B",
+                    "styles": {
+                      "tagName": "B",
+                      "id": "",
+                      "className": "text-[#00FF4C] text-[16px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(0, 255, 76)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "16px",
+                      "width": "32.8906px",
+                      "height": "24px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Faol"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[white] text-[20px] font-bold",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "163.484px",
+                      "height": "30px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "30/12/2026"
+                      },
+                      {
+                        "type": "text",
+                        "text": "gacha"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex max-w-[425px] mb-[10px] items-start gap-2 justify-start w-full flex-col",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px 0px 10px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "60px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "text-[#00FF4C] text-[20px]",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(0, 255, 76)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "20px",
+                      "width": "335px",
+                      "height": "60px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Qonun doirasida yordam\nko'rsatishingizni so'raymiz"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex max-w-[425px] mb-[10px] items-start gap-2 justify-start w-full flex-col",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px 0px 10px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "335px",
+                  "height": "130px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "BUTTON",
+                    "styles": {
+                      "tagName": "BUTTON",
+                      "id": "",
+                      "className": "align-middle select-none font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none px-6 bg-white text-blue-gray-900 shadow-md shadow-blue-gray-500/10 hover:shadow-lg hover:shadow-blue-gray-500/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none block w-full font-sans text-[16px] py-[7px] rounded",
+                      "bg": "rgb(255, 255, 255)",
+                      "color": "rgb(38, 50, 56)",
+                      "padding": "7px 24px",
+                      "margin": "0px",
+                      "fontFamily": "Roboto, sans-serif",
+                      "fontSize": "16px",
+                      "width": "335px",
+                      "height": "38px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "4px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "ID Karta"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "BUTTON",
+                    "styles": {
+                      "tagName": "BUTTON",
+                      "id": "",
+                      "className": "align-middle select-none font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none px-6 bg-white text-blue-gray-900 shadow-md shadow-blue-gray-500/10 hover:shadow-lg hover:shadow-blue-gray-500/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none block w-full font-sans text-[16px] py-[7px] rounded",
+                      "bg": "rgb(255, 255, 255)",
+                      "color": "rgb(38, 50, 56)",
+                      "padding": "7px 24px",
+                      "margin": "0px",
+                      "fontFamily": "Roboto, sans-serif",
+                      "fontSize": "16px",
+                      "width": "335px",
+                      "height": "38px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "4px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Haydovchilik guvohnomasi"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "BUTTON",
+                    "styles": {
+                      "tagName": "BUTTON",
+                      "id": "",
+                      "className": "align-middle select-none font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none px-6 bg-white text-blue-gray-900 shadow-md shadow-blue-gray-500/10 hover:shadow-lg hover:shadow-blue-gray-500/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none block w-full font-sans text-[16px] py-[7px] rounded",
+                      "bg": "rgb(255, 255, 255)",
+                      "color": "rgb(38, 50, 56)",
+                      "padding": "7px 24px",
+                      "margin": "0px",
+                      "fontFamily": "Roboto, sans-serif",
+                      "fontSize": "16px",
+                      "width": "335px",
+                      "height": "38px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "4px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "Ma'lumotnoma"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tag": "DIV",
+                "styles": {
+                  "tagName": "DIV",
+                  "id": "",
+                  "className": "flex items-center justify-center gap-[10px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "86.6719px",
+                  "height": "24px",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "cursor-pointer text-white",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "16px",
+                      "width": "21.3281px",
+                      "height": "24px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "UZ"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "cursor-pointer text-white",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "16px",
+                      "width": "23.1094px",
+                      "height": "24px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "RU"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "P",
+                    "styles": {
+                      "tagName": "P",
+                      "id": "",
+                      "className": "cursor-pointer text-white",
+                      "bg": "rgba(0, 0, 0, 0)",
+                      "color": "rgb(255, 255, 255)",
+                      "padding": "0px",
+                      "margin": "0px",
+                      "fontFamily": "Inter, sans-serif",
+                      "fontSize": "16px",
+                      "width": "22.2344px",
+                      "height": "24px",
+                      "border": "0px solid rgb(238, 238, 238)",
+                      "borderRadius": "0px"
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "EN"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "DIV",
+            "styles": {
+              "tagName": "DIV",
+              "id": "",
+              "className": "",
+              "bg": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif",
+              "fontSize": "16px",
+              "width": "343px",
+              "height": "780px",
+              "border": "0px solid rgb(238, 238, 238)",
+              "borderRadius": "0px"
+            },
+            "children": []
+          },
+          {
+            "type": "element",
+            "tag": "DIV",
+            "styles": {
+              "tagName": "DIV",
+              "id": "",
+              "className": "items-center justify-center w-full h-[100vh] bg-[#14123940] z-[999] backdrop-blur-md hidden fixed top-0 left-0",
+              "bg": "rgba(20, 18, 57, 0.25)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif",
+              "fontSize": "16px",
+              "width": "100%",
+              "height": "812px",
+              "border": "0px solid rgb(238, 238, 238)",
+              "borderRadius": "0px"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "IMG",
+                "styles": {
+                  "tagName": "IMG",
+                  "id": "",
+                  "className": " w-[90%] sm:w-[500px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "90%",
+                  "height": "auto",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "DIV",
+            "styles": {
+              "tagName": "DIV",
+              "id": "",
+              "className": "items-center justify-center w-full h-[100vh] bg-[#14123940] z-[999] backdrop-blur-md hidden fixed top-0 left-0",
+              "bg": "rgba(20, 18, 57, 0.25)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif",
+              "fontSize": "16px",
+              "width": "100%",
+              "height": "812px",
+              "border": "0px solid rgb(238, 238, 238)",
+              "borderRadius": "0px"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "IMG",
+                "styles": {
+                  "tagName": "IMG",
+                  "id": "",
+                  "className": " w-[90%] sm:w-[500px]",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "0px",
+                  "margin": "0px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "90%",
+                  "height": "auto",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "tag": "DIV",
+            "styles": {
+              "tagName": "DIV",
+              "id": "",
+              "className": "items-center justify-center w-full h-[100vh] bg-[#14123940] z-[999] backdrop-blur-md hidden fixed top-0 left-0",
+              "bg": "rgba(20, 18, 57, 0.25)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif",
+              "fontSize": "16px",
+              "width": "100%",
+              "height": "812px",
+              "border": "0px solid rgb(238, 238, 238)",
+              "borderRadius": "0px"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "P",
+                "styles": {
+                  "tagName": "P",
+                  "id": "",
+                  "className": "text-white",
+                  "bg": "rgba(0, 0, 0, 0)",
+                  "color": "rgb(255, 255, 255)",
+                  "padding": "0px",
+                  "margin": "0px",
+                  "fontFamily": "Inter, sans-serif",
+                  "fontSize": "16px",
+                  "width": "auto",
+                  "height": "auto",
+                  "border": "0px solid rgb(238, 238, 238)",
+                  "borderRadius": "0px"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "INTERNATIONAL POLICE ASSOCIATION (IPA) - BMTning Iqtisodiy va ijtimoiy Kengashi, Yevropa Kengashi va Amerika davlatlari tashkilotida «Special» maqomiga ega boʻlgan, YUNESKO va EUROPOL bilan ishchi munosabatlarni qoʻllab-quvvatlovchi xalqaro nodavlat tashkiloti.\n«INTERNATIONAL POLICE ASSOCIATION CLUB» IPAning O’zbekiston Respublikasi hududidagi bo’limi maqomida faoliyat yuritadi.\n07.10.2019 yilda O‘zbekiston Respublikasi Adliya vazirligi huzuridagi Davlat xizmatlari agentligidan 767995-son bilan davlat ro‘yxatidan o‘tkazilgan. \nMarkaziy ofis: O’zbekiston Respublikasi, Toshkent shahri, Yakkasaroy tumani, Yunus Rajabiy ko’chasi 2 uy Tel: +998 90 940 94 07 (office).\nkadrlar xizmati E-mail: ipa.uz@mail.ru www.ipa-club.uz"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "images": [
+    "https://ipa-id.uz/assets/m.a4159446.svg",
+    "https://api.ipa-id.uz/uploads/image/bd25a12c520bb2552b03380bd15c9f84.png",
+    "https://api.ipa-id.uz/uploads/club/49ad1a58e698be070b5584c5680aaece.png",
+    "https://api.ipa-id.uz/uploads/agency/6c20d9da2c2209c28e5ec362234a59cf.png",
+    "https://api.ipa-id.uz/uploads/organ/0c634b69810c47ee122044e9d15bf327.png",
+    "https://api.ipa-id.uz/uploads/id_card/a1c323c0015986800e639403017f017d.png",
+    "https://api.ipa-id.uz/uploads/driver_license/eeaad5aaa391a3047848f77bbbd90c35.png"
+  ],
+  "html_source": "\n  <div id=\"root\"><div class=\"fixed z-[-1] top-0 left-0 w-full h-[100vh]\"><img src=\"/assets/m.a4159446.svg\" alt=\"\" class=\"w-[70%]\"></div><div class=\"flex items-center z-[99] justify-start flex-col w-full minh-[100vh] py-[20px]\"><div class=\"flex items-start max-w-[425px] justify-center w-full gap-[30px]\"><img src=\"https://api.ipa-id.uz/uploads/image/bd25a12c520bb2552b03380bd15c9f84.png\" alt=\"c_img\" class=\"w-[170px]\"><div class=\"flex items-center justify-center flex-col w-[170px] font-sans\"><img src=\"https://api.ipa-id.uz/uploads/club/49ad1a58e698be070b5584c5680aaece.png\" alt=\"c_img\" class=\"w-[80%]\"><p class=\"text-center text-[white]\">Xalqaro Politsiya Assotsiatsiyasi klubi</p></div></div><div class=\"flex max-w-[425px] items-start justify-start w-full flex-col\"><p class=\"text-[32px] text-[white] w-full uppercase font-medium\">Xashimov</p><p class=\"text-[32px] text-[white] w-full uppercase font-medium\">Kozimjon Mirzaaxatjonovich </p></div><p class=\"w-full max-w-[425px] text-[24px] text-white mb-[10px]\">ID CARD: <span class=\"text-[#00ff4c]\">Uz 233t</span></p><div class=\"w-full max-w-[425px] text-[24px] text-white flex items-center justify-start gap-3 mb-[10px]\">IPA Uzbekistan <img src=\"https://api.ipa-id.uz/uploads/agency/6c20d9da2c2209c28e5ec362234a59cf.png\" alt=\"a_img\" class=\"w-[60px]\"></div><div class=\"flex max-w-[425px] items-start justify-start w-full flex-col mb-[20px]\"><p class=\"text-[white] text-[20px]\">Tug'ulgan sana:</p><p class=\"text-[white] text-[20px] font-bold\">21/10/1988</p></div><div class=\"flex max-w-[425px] items-start justify-start w-full flex-col mb-[20px]\"><p class=\"text-[white] text-[20px]\">A'zolikka kirgan sana:</p><p class=\"text-[white] text-[20px] font-bold\">01/01/2024</p></div><div class=\"flex max-w-[425px] items-start justify-start w-full flex-col mb-[20px]\"><p class=\"text-[white] text-[20px]\">Qon guruhi:</p><p class=\"text-[white] text-[20px] font-bold\"><span class=\"font-[Merriweather] \">I</span><span class=\"false\"> </span><span class=\"false\">G</span><span class=\"false\">u</span><span class=\"false\">r</span><span class=\"false\">u</span><span class=\"false\">h</span><span class=\"false\"> </span><span class=\"false\">(</span><span class=\"false\">+</span><span class=\"false\">)</span></p></div><div class=\"flex max-w-[425px] items-start gap-2 justify-start w-full relative mb-[20px]\"><div class=\"flex items-center justify-start w-[350px]\"><p class=\"text-[white] text-[20px]\">Qaysi davlat organida xizmat qilgan:</p><div class=\"flex items-center justify-center w-[80x] h-[80px] overflow-hidden\"><img src=\"https://api.ipa-id.uz/uploads/organ/0c634b69810c47ee122044e9d15bf327.png\" alt=\"organ\" class=\"w-[80px]\"></div></div></div><div class=\"flex max-w-[425px] items-start mb-[20px] justify-start w-full flex-col\"><p class=\"text-[white] text-[20px]\">Xizmat guvohnomasi holati:</p><b class=\"text-[#00FF4C] text-[16px]\">Faol</b><p class=\"text-[white] text-[20px] font-bold\"> 30/12/2026 gacha</p></div><div class=\"flex max-w-[425px] mb-[10px] items-start gap-2 justify-start w-full flex-col\"><p class=\"text-[#00FF4C] text-[20px]\">Qonun doirasida yordam\nko'rsatishingizni so'raymiz</p></div><div class=\"flex max-w-[425px] mb-[10px] items-start gap-2 justify-start w-full flex-col\"><button class=\"align-middle select-none font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none px-6 bg-white text-blue-gray-900 shadow-md shadow-blue-gray-500/10 hover:shadow-lg hover:shadow-blue-gray-500/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none block w-full font-sans text-[16px] py-[7px] rounded\" type=\"button\">ID Karta</button><button class=\"align-middle select-none font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none px-6 bg-white text-blue-gray-900 shadow-md shadow-blue-gray-500/10 hover:shadow-lg hover:shadow-blue-gray-500/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none block w-full font-sans text-[16px] py-[7px] rounded\" type=\"button\">Haydovchilik guvohnomasi</button><button class=\"align-middle select-none font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none px-6 bg-white text-blue-gray-900 shadow-md shadow-blue-gray-500/10 hover:shadow-lg hover:shadow-blue-gray-500/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none block w-full font-sans text-[16px] py-[7px] rounded\" type=\"button\">Ma'lumotnoma</button></div><div class=\"flex items-center justify-center gap-[10px]\"><p class=\"cursor-pointer text-white\">UZ</p><p class=\"cursor-pointer text-white\">RU</p><p class=\"cursor-pointer text-white\">EN</p></div></div><div style=\"position: fixed; z-index: 9999; inset: 16px; pointer-events: none;\"></div><div class=\"items-center justify-center w-full h-[100vh] bg-[#14123940] z-[999] backdrop-blur-md hidden fixed top-0 left-0\"><img src=\"https://api.ipa-id.uz/uploads/id_card/a1c323c0015986800e639403017f017d.png\" alt=\"c_img\" class=\" w-[90%] sm:w-[500px]\"></div><div class=\"items-center justify-center w-full h-[100vh] bg-[#14123940] z-[999] backdrop-blur-md hidden fixed top-0 left-0\"><img src=\"https://api.ipa-id.uz/uploads/driver_license/eeaad5aaa391a3047848f77bbbd90c35.png\" alt=\"c_img\" class=\" w-[90%] sm:w-[500px]\"></div><div class=\"items-center justify-center w-full h-[100vh] bg-[#14123940] z-[999] backdrop-blur-md hidden fixed top-0 left-0\"><p class=\"text-white\">INTERNATIONAL POLICE ASSOCIATION (IPA) - BMTning Iqtisodiy va ijtimoiy Kengashi, Yevropa Kengashi va Amerika davlatlari tashkilotida «Special» maqomiga ega boʻlgan, YUNESKO va EUROPOL bilan ishchi munosabatlarni qoʻllab-quvvatlovchi xalqaro nodavlat tashkiloti.\n«INTERNATIONAL POLICE ASSOCIATION CLUB» IPAning O’zbekiston Respublikasi hududidagi bo’limi maqomida faoliyat yuritadi.\n07.10.2019 yilda O‘zbekiston Respublikasi Adliya vazirligi huzuridagi Davlat xizmatlari agentligidan 767995-son bilan davlat ro‘yxatidan o‘tkazilgan. \nMarkaziy ofis: O’zbekiston Respublikasi, Toshkent shahri, Yakkasaroy tumani, Yunus Rajabiy ko’chasi 2 uy Tel: +998 90 940 94 07 (office).\nkadrlar xizmati E-mail: ipa.uz@mail.ru www.ipa-club.uz</p></div></div>\n  \n\n\n"
+}
