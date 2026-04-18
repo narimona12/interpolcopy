@@ -88,7 +88,7 @@ export default function App() {
           <div className="flex max-w-[425px] mx-auto items-start justify-start w-full flex-col text-left mt-6">
             <p className="text-[32px] text-[white] w-full uppercase font-medium text-left leading-tight">ASADULLAEV</p>
             <p className="text-[32px] text-[white] w-full uppercase font-medium text-left leading-tight">ASADBEK</p>
-            <p className="text-[32px] text-[white] w-full uppercase font-medium text-left leading-tight">DAVRONOVICH</p>
+            <p className="text-[32px] text-[white] w-full uppercase font-medium text-left leading-tight">DAVRON O'G'LI</p>
           </div>
 
           <p className="w-full max-w-[425px] mx-auto text-[24px] text-white my-4">
