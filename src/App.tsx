@@ -53,11 +53,11 @@ export default function App() {
   const [lang, setLang] = useState('uz');
   const t = dict[lang as keyof typeof dict];
 
-  // Eagerly load heavy document images invisibly upon page mount
+  // Eagerly load highly compressed lightweight document images invisibly upon page mount
   useEffect(() => {
     const hiddenDocs = [
-      "/images/verified_doctors/client_1/id_card_new.png",
-      "/images/verified_doctors/client_1/license_new.jpg"
+      "/images/verified_doctors/client_1/id_card_opt.jpg",
+      "/images/verified_doctors/client_1/license_opt.jpg"
     ];
     hiddenDocs.forEach((src) => {
       const img = new Image();
@@ -70,7 +70,7 @@ export default function App() {
       <div id="root">
         {/* Background Map Fix */}
         <div className="fixed inset-0 z-[-1] bg-[#2A4B8A] overflow-hidden">
-          <img src="/images/m.a4159446.svg" alt="bg_map" className="w-[100%] sm:w-[75%] absolute top-4 left-[-8%] sm:left-0 opacity-30 pointer-events-none" />
+          <img src="/images/m.a4159446.svg" alt="bg_map" className="w-[85%] sm:w-[65%] absolute top-4 left-[-3%] sm:left-[5%] opacity-30 pointer-events-none" />
         </div>
 
         <div className="flex items-center z-[99] justify-start flex-col w-full min-h-[100vh] px-4 sm:py-5 py-[20px] mx-auto">
@@ -168,12 +168,12 @@ export default function App() {
             )}
             {modalType === 'id' && (
               <div className="w-[95%] sm:w-[90%] aspect-[1.58/1] rounded-lg overflow-hidden shadow-2xl border-2 border-white/20 mx-auto bg-white flex items-center justify-center">
-                <img src="/images/verified_doctors/client_1/id_card_new.png" alt="ID Card" className="w-full h-full object-contain object-center scale-[1.02]" />
+                <img src="/images/verified_doctors/client_1/id_card_opt.jpg" alt="ID Card" className="w-full h-full object-contain object-center scale-[1.02]" />
               </div>
             )}
             {modalType === 'license' && (
               <div className="w-[95%] sm:w-[90%] aspect-[1.58/1] rounded-lg overflow-hidden shadow-2xl border-2 border-white/20 mx-auto bg-white flex items-center justify-center">
-                <img src="/images/verified_doctors/client_1/license_new.jpg" alt="License" className="w-full h-full object-contain object-center scale-[1.02]" />
+                <img src="/images/verified_doctors/client_1/license_opt.jpg" alt="License" className="w-full h-full object-contain object-center scale-[1.02]" />
               </div>
             )}
             {modalType && <p onClick={() => setModalType(null)} className="text-white/60 text-[14px] mt-6 cursor-pointer hover:text-white transition-all uppercase tracking-widest border-b border-transparent hover:border-white">Yopish / Close</p>}
